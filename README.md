@@ -5,7 +5,7 @@
 
      
 <p align="center">
-  <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/language.jpg" width="400" height="240" >
+  <img src="https://github.com/kamesh0407/Language detection/blob/main/language.jpg" width="400" height="240" >
 </p>
 Stock price analysis has been a critical area of research and is one of the top applications of machine.
 So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model.
