@@ -10,19 +10,20 @@
 Language detection is the process of identifying the language in which a given text or document is written. It can evaluate text and return a language identifier that indicates the language a document was written in.
 <h2>ABOUT</h2>
 
-**What is the Stock Market?**
+**What is the language detection?**
 
-A stock market is a public market where you can buy and sell shares for publicly listed companies.
-The stocks, also known as equities, represent ownership in the company.
-The stock exchange is the mediator that allows the buying and selling of shares.
+Language detection is one of the features offered by Azure AI Language, a collection of machine learning and AI algorithms in the cloud for developing intelligent applications that involve written language.
+Language detection can detect the language a document is written in, and returns a language code for a wide range of languages, variants, dialects, and some regional/cultural languages.
 
 
-**Importance of Stock Market**
 
-1. Stock markets help companies to raise capital.
-2. It helps generate personal wealth.
-3. Stock markets serve as an indicator of the state of the economy.
-4. It is a widely used source for people to invest money in companies with high growth potential.
+**Importance of language detection**
+
+1. It helps tailor content, websites, and product descriptions to the language preferences of specific regions or demographics.
+2. This makes the user experience more seamless and user-friendly, reducing bounce rates and improving user satisfaction.
+3. In the field of sentiment analysis and social media monitoring, language detection is crucial for tracking and analyzing global trends and opinions.
+4. Language detection  helps maintain a safe and respectful online environment.
+5. It enables businesses and organizations to reach a broader audience, improve communication, and make data-driven decisions across linguistic and cultural boundaries.
 
 <h2>TECHNOLOGIES USED</h2>
 <p align="center">
