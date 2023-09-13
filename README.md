@@ -37,9 +37,10 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 
 <h2>METHODOLOGY</h2>
-<li>The model was trained using Google's stock market data(Date, Open, High, Low, Close, Volume) to enhance its technical proficiency.
+<li>It measures the proportion of correctly identified languages out of all the samples tested. High accuracy indicates that the language detection system is effective in correctly identifying languages.
 </li>
-<li>  The keras model helps to create a model, layer by layer. The dense layer is fully connected layer, so all the neurons in a layer are connected to those in a next layer by using tensorflow as a backend.</li>
+<li>  language detection aims to provide a robust and objective assessment of the performance of language detection systems.</li>
+<li> It helps researchers and developers identify areas for improvement and choose the most suitable algorithms and models for specific applications, ensuring accurate and reliable language identification.</li>
 <br/>
 
 **LONG SHORT TERM MEMORY NETWORK:**
