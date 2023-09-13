@@ -49,19 +49,17 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 **CODES IN DIFFERENT PLATFORMS:**
 
-It tooks nearly 48seconds to 58 seconds to run single keras model files in Jupyter n0tebook
-But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where this keras model consist of 100 files to run it and make to fit for the model.
-
+Language detection contains data about 22 popular languages and contains 1000 sentences in each of the languages, so it will be an appropriate dataset for training a language detection model with machine learning.
 <br/>
 
 <div align="center">
-   <centre><h2> openVINO notebook</centre><br />
+   <centre><h2> languages present in this dataset </centre><br />
       </div>
 
 ![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
 
 <div align="center">
-   <centre><h2>local machine's notebook
+   <centre><h2>detect the language
 </centre><br />
       </div>
 
