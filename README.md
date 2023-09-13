@@ -64,4 +64,4 @@ Language detection contains data about 22 popular languages and contains 1000 se
       </div>
 
 
-  ![image](https://user-images.githubusercontent.com/105495867/225222368-8dacf339-445f-4b2c-8404-53a0526ef6ca.png)
+  ![image](https://github.com/711121104027/language-detection/blob/main/output.png)
