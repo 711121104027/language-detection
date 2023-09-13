@@ -43,9 +43,6 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 <li> It helps researchers and developers identify areas for improvement and choose the most suitable algorithms and models for specific applications, ensuring accurate and reliable language identification.</li>
 <br/>
 
-**LONG SHORT TERM MEMORY NETWORK:**
- LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
-It is commonly used for processing and predicting time-series data.
 
 <h2>PLATFORMS</h2>
 
