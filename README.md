@@ -30,7 +30,7 @@ Language detection can detect the language a document is written in, and returns
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
 </p>
 
-The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® oneDAL toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
+The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® oneDAL toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) enables models to be trained in a more efficient way and results in faster training times.As this is a problem of multiclass classification, so I will be using the Multinomial Naïve Bayes algorithm to train the language detection model.
 
 
 
